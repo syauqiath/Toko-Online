@@ -69,7 +69,7 @@
                     }
                 ?>
             </div>
-            <h3>Ubah Password</h3>
+            <h3>Ubah P4ssword</h3>
             <div class="box">
                 <form action="" method="POST">
                     <input type="password" name="pass1" placeholder="Password Baru" class="input-control" required>
